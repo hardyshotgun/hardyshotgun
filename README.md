@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about people and things
 - 🌱 I’m currently learning iOS App Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : through github is the best option I can give.
 
 <!---
 hardyshotgun/hardyshotgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
